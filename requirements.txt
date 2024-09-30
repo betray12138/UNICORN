@@ -1,0 +1,8 @@
+gym==0.18.0
+numpy==1.26.3
+torch==2.0.1
+# mujoco-py==2.0.2.13
+# pygame==2.1.0
+pytest==7.1.2
+matplotlib==3.5.2
+mbrl==0.2.0
