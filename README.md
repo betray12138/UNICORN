@@ -66,9 +66,11 @@
 # 5. Citation
     If you find the codebase is helpful for you, please cite 
 
-    @article{li2024towards,
-        title={Towards an Information Theoretic Framework of Context-Based Offline Meta-Reinforcement Learning},
-        author={Li, Lanqing and Zhang, Hai and Zhang, Xinyu and Zhu, Shatong and Zhao, Junqiao and Heng, Pheng-Ann},
-        journal={arXiv preprint arXiv:2402.02429},
-        year={2024}
+    @inproceedings{
+    li2024towards,
+    title={Towards an Information Theoretic Framework of Context-Based Offline Meta-Reinforcement Learning},
+    author={Lanqing Li and Hai Zhang and Xinyu Zhang and Shatong Zhu and Yang YU and Junqiao Zhao and Pheng-Ann Heng},
+    booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
+    year={2024},
+    url={https://openreview.net/forum?id=QFUsZvw9mx}
     }
